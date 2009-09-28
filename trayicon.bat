@@ -1,0 +1,1 @@
+java -cp trayIcon.jar br.com.kamel.TrayIconMain
