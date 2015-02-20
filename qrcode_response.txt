@@ -1,4 +1,4 @@
 {
 	"type" : "VOICE_AND_TEXT",
-	"msg" : "Hello my World, here is an example why I'm so useful! :P"
+	"msg" : "Agora sim, viu como sou util! Seu Otário do caralho!"
 }
