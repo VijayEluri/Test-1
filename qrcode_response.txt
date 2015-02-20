@@ -1,4 +1,4 @@
 {
 	"type" : "VOICE_AND_TEXT",
-	"msg" : "Agora sim, viu como sou util! Seu Otário do caralho!"
+	"msg" : "Agora sim, viu como sou util! Seu covarde!"
 }
